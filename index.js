@@ -24,7 +24,7 @@ inquirer.prompt(
                 'Choose shape for your logo.',
             choices:
                 [
-                    'Sqaure', 'Circle', 'Triangle'
+                    'Square', 'Circle', 'Triangle'
                 ]
         },
         {
